@@ -1,7 +1,7 @@
 function imgHover(myImage) {
-    myImage.src = "./assets/primecontactbtn.gif";
+    myImage.src = "./primecontactbtn.gif";
 }
 
 function imgOut(myImage) {
-    myImage.src = "./assets/primecontactnav.gif";
+    myImage.src = "./primecontactnav.gif";
 }
